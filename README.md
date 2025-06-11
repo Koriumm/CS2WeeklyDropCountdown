@@ -1,6 +1,7 @@
 # Counter-Strike 2 Weekly Drop Countdown Timer
 
 ### This project shows a global reset time for when the Counter-Strike 2 weekly drops become available.
+The entire site runs on one HTML file. Very lightweight.
 
 ---
 
